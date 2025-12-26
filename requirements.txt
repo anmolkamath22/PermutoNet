@@ -1,0 +1,24 @@
+# Jigsaw-Transformer - Requirements
+# Deep Learning for 3×3 Jigsaw Puzzle Solving
+
+# Core ML Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+Pillow>=9.0.0
+
+# Scientific Computing
+scipy>=1.7.0
+
+# Progress Visualization
+tqdm>=4.60.0
+
+# Optional: Visualization & Analysis
+matplotlib>=3.4.0
+
+# Optional: Experiment Tracking (uncomment if needed)
+# wandb>=0.15.0
+# tensorboard>=2.10.0
